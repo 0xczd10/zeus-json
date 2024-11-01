@@ -1,0 +1,53 @@
+{
+    "zeusMyths": [
+      {
+        "id": 1,
+        "title": "Battle with the Titans",
+        "description": "A myth about how Zeus led the Olympians in a battle against the Titans to establish his rule.",
+        "content": "After the Titans seized power, Zeus gathered his brothers and sisters to start a war. It was a long and brutal battle, in which Zeus and the Olympians emerged victorious.",
+        "relatedCharacters": ["Gaia", "Cronus", "Prometheus"],
+        "isFavorite": false
+      },
+      {
+        "id": 2,
+        "title": "Abduction of Europa",
+        "description": "The story of how Zeus, transformed into a bull, abducted Europa.",
+        "content": "Zeus, captivated by Europa’s beauty, took the form of a white bull to approach her. He then carried her off to Crete, where she became the mother of his sons.",
+        "relatedCharacters": ["Europa", "Minos", "Rhadamanthys"],
+        "isFavorite": true
+      },
+      {
+        "id": 3,
+        "title": "Birth of Athena",
+        "description": "The myth about how Athena was born from Zeus's head in full armor.",
+        "content": "When Zeus heard the prophecy that his child with Metis would be very powerful, he swallowed her to avoid the threat. Soon after, he suffered a terrible headache, and Athena sprang from his head, fully armored.",
+        "relatedCharacters": ["Athena", "Metis"],
+        "isFavorite": false
+      },
+      {
+        "id": 4,
+        "title": "Creation of Pandora",
+        "description": "The story of how Zeus punished humanity by creating the first woman—Pandora.",
+        "content": "To punish humans for the gift of fire that Prometheus had stolen, Zeus ordered the creation of Pandora. She brought with her a vessel of misfortunes, and when it was opened, it released all evils upon humanity.",
+        "relatedCharacters": ["Pandora", "Prometheus", "Hephaestus"],
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "title": "Punishment of Prometheus",
+        "description": "The myth about how Zeus punished Prometheus for stealing fire for humans.",
+        "content": "Angry at Prometheus for stealing fire and giving it to humans, Zeus chained him to a rock, where an eagle devoured his liver each day, only for it to regenerate every night.",
+        "relatedCharacters": ["Prometheus", "Heracles"],
+        "isFavorite": false
+      },
+      {
+        "id": 6,
+        "title": "Zeus and Leda",
+        "description": "The story of how Zeus, in the form of a swan, charmed Leda.",
+        "content": "Zeus, enchanted by the beautiful Leda, took the form of a swan to win her favor. As a result of their union, their children were born, including Helen of Troy and the twins Castor and Pollux.",
+        "relatedCharacters": ["Leda", "Helen", "Castor", "Pollux"],
+        "isFavorite": false
+      }
+    ]
+  }
+  
