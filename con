@@ -1,0 +1,17 @@
+{
+    "privacyPolicyURL": "https://gfdgdfgdfg.space/api/data?app_key=htdzjxwljgckmvaryjgptvem3n0k3gqw",
+    "views": {
+        "x": {
+            "name": "ContentView",
+            "description": "All content of this application as well as the menu"
+        },
+        "j": {
+            "name": "SettingsView",
+            "description": "Settings for the application and everything for your convenience"
+        },
+        "o": {
+            "name": "PrivacyPolicyView",
+            "description": "This app's privacy policy is for your safety."
+        }
+    }
+}
